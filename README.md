@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SajjanYadav
-- Currenlt learning DSA and web Development 
+- Currently learning DSA and web Development 
 
